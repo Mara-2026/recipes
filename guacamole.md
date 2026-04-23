@@ -4,3 +4,4 @@
 * lime 0.50 CHF
 * salt 0.01 CHF
 ## Instructions
+* put one avocado into a bowl.
